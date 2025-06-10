@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_gitProject_FILE /Users/programista/Documents/pat/dekstopowe/gitProject/gitProject/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/gitProject.app/Contents/MacOS/gitProject)
+set(__QT_DEPLOY_TARGET_gitProject_TYPE EXECUTABLE)
