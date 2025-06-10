@@ -38,3 +38,21 @@
    git clone https://github.com/patrikinho0/Commitly.git
 2. Open the .pro or CMakeLists.txt file in Qt Creator
 3. Build and run the project
+
+---
+
+## 🖥️ Usage
+- Open **Commitly**
+- Select your local Git project folder
+- Stage files, write commit messages, and push — all with buttons
+- No terminal needed 🎉
+
+---
+
+## 🤝 Contributing
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 💡 Author
+- Created with ❤️ by <a href="https://github.com/patrikinho0">patrikinho</a>
